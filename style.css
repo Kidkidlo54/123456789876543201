@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+}
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px gray;
+}
+
+.copy_right_foooter{
+    position: fixed;
+    color: whitesmoke;
+    bottom: 0;
+    width: 100%;
+    background-color: gray;
+    line-height: 3;
+    text-align: center;
+}
+
+canvas{
+    border: 5 solid whitesmoke;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px gray;
+}
